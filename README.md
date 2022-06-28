@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/bernard-calma/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/Ryzrnd.Shop/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/19430825/bernard-calma"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
-<a href="https://github.com/Ryznrd"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Bernard-Calma"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 
 <h2><strong>• I am currently working as an IT Field Technician and working my way to get into programming 👨‍💻 that I really wanted to 🤓</strong></h2>
