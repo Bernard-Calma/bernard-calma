@@ -63,3 +63,8 @@ Here are some ideas to get you started:
          </td>
     </tr>
 </table>
+
+<h1> PROJECTS </h1>
+<ul>
+    <li><a href="https://bernard-calma.github.io/tamagotchi-project/">Mini-Project: Tamagochi</a><li>
+</ul>
