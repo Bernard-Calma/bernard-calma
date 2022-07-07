@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/Bernard-Calma"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 
-<h2><strong>• I am currently working as an IT Field Technician and working my way to get into programming 👨‍💻 that I really wanted to 🤓</strong></h2>
-<h2><strong>• I am currently studying <em>Software Engineer</em> at <em>General Assembly</em></strong></h2>
+<h2><strong>• I am currently working as an IT Field Technician and working my way to get into programming 👨‍💻 which is my dream field that I've been interested in for years 🤓</strong></h2>
+<h2><strong>• I am currently studying <em>Software Engineering</em> at <em>General Assembly</em></strong></h2>
 
 <table>
     <tr>
