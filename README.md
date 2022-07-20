@@ -66,5 +66,8 @@ Here are some ideas to get you started:
 
 <h1> PROJECTS </h1>
 <ul>
-    <li><a href="https://bernard-calma.github.io/tamagotchi-project/">Mini-Project: Tamagochi</a></i>
+    <i>
+        <li><a href="https://bernard-calma.github.io/tamagotchi-project/">Mini-Project: Tamagochi</a>
+        <li><a href="https://bernard-calma.github.io/project-1/">Project 1: Floating Shoe</a>
+    </i>
 </ul>
