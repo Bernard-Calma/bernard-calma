@@ -70,5 +70,6 @@ Here are some ideas to get you started:
         <li><a href="https://bernard-calma.github.io/tamagotchi-project/">Mini-Project: Tamagochi</a>
         <li><a href="https://bernard-calma.github.io/project-1/">Project 1: Floating Shoe</a>
         <li><a href="http://spentrace.herokuapp.com/plan/">Spentrace</a>
+        <li><a href="http://stream-in.herokuapp.com/plan/">Streamin</a>
     </i>
 </ul>
