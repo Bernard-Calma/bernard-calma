@@ -73,3 +73,6 @@ Here are some ideas to get you started:
         <li><a href="http://stream-in.herokuapp.com/plan/">Streamin</a>
     </i>
 </ul>
+
+
+<a href="https://bernard-calma.github.io/My_Portfolio/" target="_blank" >My Portfolio using VanillaJS</a>
