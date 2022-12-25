@@ -77,3 +77,5 @@ Here are some ideas to get you started:
 
 
 <a href="https://bernard-calma.github.io/My_Portfolio/" target="_blank" >My Portfolio using VanillaJS</a>
+
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=bernard-calma)](https://git.io/streak-stats) -->
