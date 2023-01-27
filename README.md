@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<em>Highly motivated technology professional with more than 6 years of experience as an associate lead developer for different lines of business and hardware troubleshooting, analysis and advance resolution procedures in resolving complex issues. Skilled in Six Sigma, Cloud Computing, Team/Project Management and Automation </em>
+<emMore than 1 year of experience in Full Stack Development and 10 years of experience in the IT Industry in different lines of business. Expert in hardware/software troubleshooting, root cause analysis, advanced resolution procedures and complex problem solving. Skilled in Six Sigma, Cloud Computing, Team/Project Management and Automation.</em>
 
 <a href="https://www.linkedin.com/in/bernard-calma/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/Ryzrnd.Shop/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
