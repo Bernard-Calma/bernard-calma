@@ -26,8 +26,10 @@ Here are some ideas to get you started:
 <a href="https://github.com/Bernard-Calma"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 
-<h2><strong>• I am currently working as an IT Field Technician and working my way to get into programming 👨‍💻 which is my dream field that I've been interested in for years 🤓</strong></h2>
-<h2><strong>• I am currently studying <em>Software Engineering</em> at <em>General Assembly</em></strong></h2>
+<h2><strong>• I am currently working as an IT Field Technician and working my way back to software development 👨‍💻 which is my goal.</strong></h2>
+<h2><strong>• I completed the <em>Software Engineering Immersive</em> at <em>General Assembly</em></strong></h2>
+<h2><strong>• I completed <em>The Complete 2023 Web Development Bootcamp
+</em> at <em>udemy</em></strong></h2>
 
 <table>
     <tr>
