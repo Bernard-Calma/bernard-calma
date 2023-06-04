@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<em>More than 1 year of experience in Full Stack Development and 10 years of experience in the IT Industry in different lines of business. Expert in hardware/software troubleshooting, root cause analysis, advanced resolution procedures and complex problem solving. Skilled in Six Sigma, Cloud Computing, Team/Project Management and Automation.</em>
+<em>With more than 5 years of experience in software, hardware troubleshooting, debugging and more than 1 year on full stack development projects. Expert in root cause analysis, advanced resolution procedures and complex problem solving.</em>
 
 <a href="https://www.linkedin.com/in/bernard-calma/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/Ryzrnd.Shop/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
@@ -26,10 +26,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/Bernard-Calma"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 
-<h2><strong>• I am currently working as an IT Field Technician and working my way back to software development 👨‍💻 which is my goal.</strong></h2>
+<h2><strong>• I am currently working as an Information Technology Technician and my goal get into software development 👨‍💻 </strong></h2>
 <h2><strong>• I completed the <em>Software Engineering Immersive</em> at <em>General Assembly</em></strong></h2>
-<h2><strong>• I completed <em>The Complete 2023 Web Development Bootcamp
-</em> at <em>udemy</em></strong></h2>
+<h2><strong>• I completed <em>The Complete 2023 Web Development Bootcamp</em> at <em>Udemy</em></strong></h2>
 
 <table>
     <tr>
