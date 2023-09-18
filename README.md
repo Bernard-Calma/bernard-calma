@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<em>With more than 5 years of experience in software, hardware troubleshooting, debugging and more than 1 year on full stack development projects. Expert in root cause analysis, advanced resolution procedures and complex problem solving.</em>
+<em>More than 2 years of experience on full stack development, mainly React and Node. Also, 5 years in software/hardware troubleshooting, debugging. Expert in root cause analysis, advanced resolution procedures and complex problem solving.</em>
 
 <a href="https://www.linkedin.com/in/bernard-calma/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/Ryzrnd.Shop/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/Bernard-Calma"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 
-<h2><strong>• I am currently working as an Information Technology Technician and my goal is to get into software development 👨‍💻 </strong></h2>
+<h2><strong>• I am a Full Stack Developer with broad IT experience. 👨‍💻 </strong></h2>
 <h2><strong>• I completed the <em>Software Engineering Immersive</em> at <em>General Assembly</em></strong></h2>
 <h2><strong>• I completed <em>The Complete 2023 Web Development Bootcamp</em> at <em>Udemy</em></strong></h2>
 
