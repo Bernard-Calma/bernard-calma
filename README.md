@@ -1,79 +1,87 @@
-<h1> Hi there, I'm Bernard 👋 </h1>
+<h1 align="center">Hi there, I'm Bernard 👋</h1>
 
-<!--
-**nard-calma/nard-calma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Full Stack Developer with 2+ years of experience specializing in React and Node.js. Backed by 10+ years in IT support, hardware/software troubleshooting, and advanced problem-solving. Passionate about clean code, collaboration, and building tools that improve everyday workflows.</em>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/bernard-calma/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.facebook.com/Ryzrnd.Shop/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/19430825/bernard-calma"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+  <a href="https://github.com/Bernard-Calma"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
+---
 
+## 💼 About Me
 
+- 👨‍💻 Full Stack Developer with real-world experience building production apps using **React**, **Redux**, **Node.js**, and **PostgreSQL**
+- 🎓 Completed **Software Engineering Immersive** at General Assembly
+- 🏆 Completed **The Complete 2023 Web Development Bootcamp** on Udemy
+- 🔧 Over a decade of professional IT support and root-cause debugging experience
+- 🌱 Always learning, currently deep-diving into TypeScript and advanced system design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-<em>More than 2 years of experience on full stack development, mainly React and Node. Bringing 10 years of software/hardware troubleshooting, debugging. Expert in root cause analysis, advanced resolution procedures and complex problem solving.</em>
+## 🧰 Tech Stack
 
-<a href="https://www.linkedin.com/in/bernard-calma/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/Ryzrnd.Shop/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/19430825/bernard-calma"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
-<a href="https://github.com/Bernard-Calma"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+### Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Visual Basic](https://img.shields.io/badge/Visual_Basic-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<h2><strong>• I am a Full Stack Developer with broad IT experience. 👨‍💻 </strong></h2>
-<h2><strong>• I completed the <em>Software Engineering Immersive</em> at <em>General Assembly</em></strong></h2>
-<h2><strong>• I completed <em>The Complete 2023 Web Development Bootcamp</em> at <em>Udemy</em></strong></h2>
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-<table>
-    <tr>
-        <td valign="top">
-            <h3><strong>Languages:</strong></h3>
-                <ul>
-                    <li><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></li>
-                    <li><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></li>
-                    <li><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></li>
-                    <li><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></li>
-                    <li><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></li>
-                    <li><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/></li>
-                    <li><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/></li>
-                    <li><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/></li>
-                </ul>
-        </td>
-        <td valign="top"> 
-            <h3><strong>Database:</strong></h3>
-                <ul>
-                    <li><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></li>
-                    <li><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></li>
-                    <li><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></li>
-                </ul>
-        </td> 
-        <td valign="top"> 
-            <h3><strong>Frameworks & Library:</strong></h3>
-                <ul>
-                    <li><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></li>
-                    <li><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/></li>
-                    <li><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=whitee"/></li>
-                    <li><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/></li>
-                </ul> 
-         </td>
-    </tr>
-</table>
+---
 
-<h1> PROJECTS </h1>
-<ul>
-    <i>
-        <li><a href="http://www.spentrace.com/">Spentrace</a>
-        <li><a href="http://stream-in.herokuapp.com">Streamin</a>
-    </i>
-</ul>
+## 🧪 Projects
 
+### 📊 [Spentrace](http://www.spentrace.com/)
+> Automated budget planner that tracks income and expenses, and forecasts future spending needs.
 
-<a href="https://bernard-calma.github.io/My_Portfolio/" target="_blank" >My Portfolio using VanillaJS</a>
+### 📽️ [Streamin](http://stream-in.herokuapp.com)
+> Video sharing platform with social features such as likes and threaded comments.
 
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=bernard-calma)](https://git.io/streak-stats) -->
+### 📹 Hello Tube
+> YouTube clone app built with React and TypeScript, including video posts and interaction features.
+
+### 📋 WLTS (Ward Leadership Tracking System)
+> Task/event manager with role-based access, Kanban board, and integrated calendar.
+
+### 🛠️ One Stop Tool
+> Desktop automation tool that reduced call handling time by 50% by integrating support resources.
+
+### 🌐 [My Portfolio](https://bernard-calma.github.io/My_Portfolio/)
+> Portfolio site built with Vanilla JavaScript showcasing my work and skills.
+
+---
+
+## 📫 Contact Me
+
+📍 Lancaster, CA (Open to relocation)  
+📧 nard.calma@gmail.com  
+📱 (323) 818-8962  
+🔗 [LinkedIn](https://www.linkedin.com/in/bernard-calma/) | [GitHub](https://github.com/bernard-calma)
+
+---
+
+> 💬 *“I love solving problems with code and making digital experiences smoother, smarter, and more scalable.”*
