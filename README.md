@@ -71,7 +71,7 @@
 > Desktop automation tool that reduced call handling time by 50% by integrating support resources.
 
 ### 🌐 [My Portfolio](http://www.bernardcalma.com)
-> Portfolio site built with Vanilla JavaScript showcasing my work and skills.
+> Portfolio site built with React showcasing my work and skills.
 
 ---
 
