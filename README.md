@@ -61,16 +61,16 @@
 ### 📽️ [Streamin](http://stream-in.herokuapp.com)
 > Video sharing platform with social features such as likes and threaded comments.
 
-### 📹 Hello Tube
+### 📹 [Hello Tube](https://hello-tube-1db40b56a45b.herokuapp.com/)
 > YouTube clone app built with React and TypeScript, including video posts and interaction features.
 
-### 📋 WLTS (Ward Leadership Tracking System)
+### 📋 [WLTS (Ward Leadership Tracking System)](https://my-ward-demo-8b90a86588e7.herokuapp.com/)
 > Task/event manager with role-based access, Kanban board, and integrated calendar.
 
 ### 🛠️ One Stop Tool
 > Desktop automation tool that reduced call handling time by 50% by integrating support resources.
 
-### 🌐 [My Portfolio](https://bernard-calma.github.io/My_Portfolio/)
+### 🌐 [My Portfolio](http://www.bernardcalma.com)
 > Portfolio site built with Vanilla JavaScript showcasing my work and skills.
 
 ---
